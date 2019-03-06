@@ -1,7 +1,7 @@
 # rlewb
 RLE-WB compressor for Fusion-C
 
-rle.c       Source code
-rle         Mac Executable
+rlewb.c       Source code
+rlewb         MacOs Executable
 
 mona.sc5    SC5 file for compression testing
