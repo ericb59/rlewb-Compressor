@@ -1,7 +1,7 @@
 # rlewb
 RLE-WB compressor for Fusion-C
 
-rlewb.c       Source code
-rlewb         MacOs Executable
+This command line tool coded in C can compress any file with RLE-WB algorythm
 
-mona.sc5    SC5 file for compression testing
+Included : Executable for, MacOS, Windows 64bits, and Lnux 64niys
+
